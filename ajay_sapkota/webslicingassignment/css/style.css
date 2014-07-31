@@ -1,0 +1,146 @@
+.header{
+	background-color:#efb356;
+	width:1020px;
+	height:180px;
+	
+	}
+.title{
+	float:left;
+	width:40%;
+	padding:20px;
+	}
+.social_icons{
+		float:right;
+		width:40%;
+		padding:20px;
+	}
+.social_icons li{float:right;
+				margin-right: 15px;
+}
+
+
+ul {
+	overflow: hidden;
+}
+
+li {
+	margin-left: 0;
+	list-style: none;
+}
+.headernav{
+		display: block;
+	background-color:#40312a;
+		
+		float:left;
+		margin-top: 5px;
+		width:1020px;
+		height:48px;
+		
+		padding-bottom:8px;
+	}
+	.footernav{
+		display: block;
+		float:left;
+		margin-top: 5px;
+		width:1020px;
+		height:48px;
+		color:#fff;
+		padding-bottom:8px;
+	}
+	
+	.footernav a{
+		color:#fff;
+		text-decoration:none;
+	}
+	
+.headernav li {
+		float:  left;
+		margin-right: 25px;
+	}
+.footernav li {
+		float:  left;
+		margin-right: 5px;
+	}
+.footernav a:hover{color:#3da2b4;}
+	
+.headernav a {
+			font-size: 16px;
+			color: white;
+			text-shadow: 0 1px 0 #281f1b;
+			padding:4px;
+			text-decoration:none;
+		
+		}
+.headernav a:hover{color:#3da2b4;}
+.hdnav{
+	width:714px;
+	float:left;
+	margin-right:70px;}
+.formnav{color:#fff;
+}
+#search{
+	background-color:#2c8898;
+	border:none;
+	border-radius:5px;
+	height:20px;
+	}
+.whoweare{
+	background-color:#f8eedf;}
+
+
+.footer_top button {
+ margin-right: 40px;
+}
+.footer_top img{margin:5px;}
+.footer_top h3{color:#3091a1;}
+.footer_twitter h3{color:#3091a1;}
+.copyright{
+	width:1020px;
+	height:70px;
+	background-color:#2d8a9b;
+}
+.copyright p{color:#fff;}
+.input{width:100px;
+height:30px;
+border-radius:5px;
+border:none;
+padding:5px;}
+.timescale{width:220px;
+height:30px;
+border-radius:5px;
+border:none;
+padding:5px;}
+.textarea{border-radius:5px;}
+.btnsubmit{background-color:#fbbd5c;
+border:none;
+width:100px;
+height:30px;
+border-radius:5px;
+color:#fff;
+margin-right:20px;
+font-size:12px;
+font-weight:bold;
+margin-left:130px;}
+.footer_twitter p{color:#fff;
+font-size:12px;
+}
+.sponsers img{
+	margin:10px;
+	border:5px solid #febf5d;
+}
+.whoweare1 img{
+	
+	border:5px solid #febf5d;
+}
+.footer_nav{
+	float:left;
+	width:390px;
+	margin-left:200px;
+	
+}
+.copyright_text{
+	float:left;
+	width:350px;
+	margin-left:50px;
+	
+}

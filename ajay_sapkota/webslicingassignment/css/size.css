@@ -1,0 +1,60 @@
+.main-wrapper{
+	width:1020px;
+	margin:0 auto;
+	}
+.welcome{
+	width:100%;
+	height:auto;
+	background-color:#d9c7a4;
+	margin-top:-20px;}
+.blog{
+	width:1020px;
+	height:1007px;
+	background-color:#f8eedf;
+	}
+.blogpost{
+	width:636px;
+	height:900px;
+	float:left;
+	padding:20px;
+	}
+.whoweare{width:324px;
+	height:900px;
+	float:left;}
+.banner{width:950px;
+border-radius:5px;
+height:240px;
+padding:60px 30px;
+
+}
+.banner_content{width:100%;
+height:90%;
+background-color:#3f3029;
+border-radius:10px 10px 0px 0px;
+}
+.banner_footer{width:100%;
+height:10%;
+background-color:#287d8f;
+border-radius:0px 0px 10px 10px ;
+
+}
+.banner_content1{width:60%;
+color:#fff;
+float:left;
+padding:20px;}
+.banner_content1 h3{color:#277a8c}
+.banner_content2{width:30%;
+float:left;
+overflow:hidden;}
+.footer{
+	background-color:#3f3029;
+	width:1020px;
+	height:417px;
+	}
+.footer_top{width:278px;
+margin:30px;
+float:left;}
+.footer_twitter{width:245px;
+margin:30px;
+float:left;
+}
